@@ -2,6 +2,14 @@
 
 A web application that displays Bitcoin price charts using React and Flask, deployed on Google Kubernetes Engine (GKE).
 
+## Important Disclosure
+
+This application was primarily developed with the assistance of an AI agent (Claude) through the Cursor IDE. While the code is functional and follows best practices, potential users should:
+- Review and test the code thoroughly before use in production
+- Be aware that the AI-generated code may have limitations or unforeseen issues
+- Understand that security and performance characteristics may need additional validation
+- Note that while the code is MIT licensed, some components may be derivative of training data
+
 ## Prerequisites
 
 - Docker
