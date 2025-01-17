@@ -85,4 +85,4 @@ Monitor the application using Google Cloud's operations suite:
 
 - The application uses CORS to allow frontend-backend communication
 - Backend API is internal to the cluster
-- Frontend is exposed via LoadBalancer with HTTPS recommended for production 
+- Frontend is exposed via LoadBalancer with HTTPS recommended for production
